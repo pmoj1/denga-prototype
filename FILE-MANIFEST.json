@@ -1,0 +1,17 @@
+[
+  {
+    "path": "PUBLICATION.md",
+    "bytes": 719,
+    "sha256": "888bd042f8da065a18d67f80587132debdedc82f9e1f279415bf9ff3345082bc"
+  },
+  {
+    "path": "README.md",
+    "bytes": 904,
+    "sha256": "20e804a60f0911c46224352330a1cdb8381dff087ce92e13b42aa13e9e771a2e"
+  },
+  {
+    "path": "index.html",
+    "bytes": 39460,
+    "sha256": "afb1d048ef160f6a102c1acf5fe732ee85c3f7dc212bbad5e10ade2841727bef"
+  }
+]
